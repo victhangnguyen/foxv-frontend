@@ -1,6 +1,5 @@
 import axiosInstance from "./axiosInstance";
 import * as urlHandling from "../utils/url";
-import axios from "axios";
 
 /**
  * checkoutOrder
